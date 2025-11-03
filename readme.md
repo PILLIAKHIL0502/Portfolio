@@ -7,7 +7,7 @@ Create /assets/banner.png and optional project thumbnails for a perfect look
 
 <!-- ======= HERO ======= -->
 <p align="center">
-  <img src="akhil_banner.png" alt="Akhil Pilli - IT Quality Architect" style="width:100%; max-width:1180px; border-radius:14px; box-shadow:0 6px 20px rgba(0,0,0,.12);" />
+  <img src="akhil_banner.png" alt="Akhil Pilli - IT Quality Architect" style="width:20%; max-width:1180px; border-radius:14px; box-shadow:0 6px 20px rgba(0,0,0,.12);" />
 </p>
 
 <p align="center" style="margin:0 0 12px 0;">
