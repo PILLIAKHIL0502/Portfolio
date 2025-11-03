@@ -105,14 +105,6 @@ PLC SCADA Automation | Industrial Automation Training
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PILLIAKHIL0502&theme=tokyonight" />
 </p>
-
----
-
-### 🎧 Mood Zone
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem" />
-</p>
-
 ---
 
 ### 👀 Visitor Count
