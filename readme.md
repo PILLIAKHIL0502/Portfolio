@@ -1,111 +1,115 @@
 <!-- Profile README for: Akhil Pilli -->
 
-<p align="center">
-  <img src="./akhil_banner.png" alt="Akhil Pilli | IT Quality Architect" width="20%" />
-</p>
+<!--
+Tip:
+- Keep this file in a repo named exactly your username: PILLIAKHIL0502
+- Images: place in the repo root (e.g., /assets/banner.png) and update paths below.
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+I'm+Akhil+Pilli;IT+Quality+Architect+%7C+Validation+Engineer;Creator+of+PHENIX+%7C+VISDOM+%7C+NOVA;AI-ready.+Validation-Strong.+Enterprise-Focused." />
-</p>
+<div style="font-family: 'Segoe UI', 'Segoe UI Web', 'Helvetica Neue', Arial, sans-serif; color:#1f2937; line-height:1.6;">
 
----
+  <!-- Optional banner -->
+  <!-- <img src="./assets/banner.png" alt="Akhil Pilli — IT Quality Architect" style="width:100%; border:1px solid #e5e7eb; border-radius:8px;" /> -->
 
-### 👋 About Me
+  <div style="height:18px;"></div>
 
-- IT Quality and Computer System Validation professional  
-- Architecting modern validation and AI-assisted quality platforms  
-- Focused on automation, regulated tech, and clean system design  
-- Based in India, working globally
+  <h1 style="margin:0; font-weight:600; color:#111827;">Akhil Pilli</h1>
+  <div style="color:#6b7280;">IT Quality Architect · Computer System Validation · Automation & BI</div>
 
-📧 **pilli.akhil@gmail.com**  
-📞 **+91-7661876146**  
-🔗 **LinkedIn:** https://linkedin.com/in/akhilpilli  
+  <div style="height:16px;"></div>
+  <hr style="border:none; border-top:1px solid #e5e7eb;" />
+  <div style="height:8px;"></div>
 
----
+  <p style="margin:0;">
+    I build dependable validation and automation solutions for regulated environments.
+    My focus is disciplined execution, audit-ready documentation, and practical use of automation and AI to reduce cycle time without compromising quality.
+  </p>
 
-### 🛠 Tech Stack
+  <div style="height:16px;"></div>
 
-#### **Programming & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+  <!-- Contact -->
+  <table style="width:100%; border-collapse:collapse;">
+    <tr>
+      <td style="padding:6px 0; color:#374151;"><strong>Location</strong></td>
+      <td style="padding:6px 0; color:#374151;">India</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 0; color:#374151;"><strong>Email</strong></td>
+      <td style="padding:6px 0; color:#374151;">pilli.akhil@gmail.com</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 0; color:#374151;"><strong>Mobile</strong></td>
+      <td style="padding:6px 0; color:#374151;">+91 76618 76146</td>
+    </tr>
+    <tr>
+      <td style="padding:6px 0; color:#374151;"><strong>LinkedIn</strong></td>
+      <td style="padding:6px 0; color:#374151;"><a href="https://www.linkedin.com/in/akhilpilli" style="color:#374151; text-decoration:underline;">linkedin.com/in/akhilpilli</a></td>
+    </tr>
+  </table>
 
-#### **Test Automation**
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-3f3f3f?style=for-the-badge&logo=cypress&logoColor=white)
+  <div style="height:18px;"></div>
+  <hr style="border:none; border-top:1px solid #e5e7eb;" />
+  <div style="height:6px;"></div>
 
-#### **Enterprise Tools**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-03787C?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+  <!-- Skills -->
+  <h3 style="margin:0; color:#111827;">Skills</h3>
+  <div style="height:8px;"></div>
 
-#### **Dev & Architecture**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+  <ul style="margin:0; padding-left:18px; color:#374151;">
+    <li><strong>Frontend</strong>: React JS, HTML, CSS</li>
+    <li><strong>Backend</strong>: Python, Flask, FastAPI</li>
+    <li><strong>Test Automation</strong>: Playwright (async), Cypress</li>
+    <li><strong>Data & BI</strong>: Power BI, SQL</li>
+    <li><strong>Power Platform</strong>: Power Apps, Power Automate, SharePoint</li>
+    <li><strong>AI & Retrieval</strong>: RAG patterns, FAISS, gguf models, LLM integration (Chat APIs)</li>
+    <li><strong>Cloud & Dev</strong>: Azure, GitHub, Local HPC setups</li>
+    <li><strong>Domains</strong>: Computer System Validation, GxP, Data Integrity, 21 CFR Part 11</li>
+  </ul>
 
----
+  <div style="height:16px;"></div>
 
-### 🎓 Certifications
+  <!-- Certifications -->
+  <h3 style="margin:0; color:#111827;">Certifications</h3>
+  <div style="height:8px;"></div>
 
-| Certification | Organization |
-|---|---|
-ITIL v4 | AXELOS  
-TOGAF | The Open Group  
-PLC SCADA Automation | Industrial Automation Training  
+  <table style="width:100%; border:1px solid #e5e7eb; border-radius:6px; border-collapse:separate;">
+    <tr>
+      <td style="padding:10px; border-bottom:1px solid #e5e7eb; color:#374151;"><strong>ITIL v4</strong></td>
+      <td style="padding:10px; border-bottom:1px solid #e5e7eb; color:#6b7280;">AXELOS</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border-bottom:1px solid #e5e7eb; color:#374151;"><strong>TOGAF</strong></td>
+      <td style="padding:10px; border-bottom:1px solid #e5e7eb; color:#6b7280;">The Open Group</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; color:#374151;"><strong>PLC & SCADA Automation</strong></td>
+      <td style="padding:10px; color:#6b7280;">Industrial Automation Training</td>
+    </tr>
+  </table>
 
----
+  <div style="height:16px;"></div>
 
-### 🚀 Projects
+  <!-- Projects -->
+  <h3 style="margin:0; color:#111827;">Projects</h3>
+  <div style="height:8px;"></div>
 
-<details>
-  <summary><b>PHENIX — No-Code Enterprise Automation Platform</b></summary>
+  <!-- This block will be auto-updated by the workflow below. Keep the markers. -->
+  <!-- PROJECTS-LIST:START -->
+  <ul style="margin:0; padding-left:18px; color:#374151;">
+    <li><strong>PHENIX</strong> — No-code enterprise test automation using Playwright, PDF reports with screenshots, GitHub integration, local exe packaging.</li>
+    <li><strong>VISDOM</strong> — Document memory engine with FAISS and RAG for SOP-grounded QA, SmartDocs generation.</li>
+    <li><strong>NOVA</strong> — Unified platform that brings GxPert, TestGen, SmartDocs, and PHENIX together under a clean UI shell.</li>
+    <li><strong>Power BI Validation Dashboards</strong> — Automated compliance analytics with Power Automate and SharePoint.</li>
+  </ul>
+  <!-- PROJECTS-LIST:END -->
 
-- Tosca-style test builder  
-- Playwright async engine + PDF reporting  
-- Screenshot based execution logs  
-- Versioning, GitHub connectivity, standalone EXE  
-</details>
+  <div style="height:18px;"></div>
+  <hr style="border:none; border-top:1px solid #e5e7eb;" />
+  <div style="height:8px;"></div>
 
-<details>
-  <summary><b>VISDOM — Validation Document Memory AI</b></summary>
+  <!-- Notes -->
+  <p style="margin:0; color:#6b7280; font-size:14px;">
+    Private and confidential enterprise work can be demonstrated upon request.
+  </p>
 
-- RAG + FAISS internal knowledge base  
-- SOP grounded responses  
-- SmartDocs controlled document generation  
-</details>
-
-<details>
-  <summary><b>NOVA — Unified Validation & AI Platform</b></summary>
-
-- Consolidated modules: PHENIX, TestGen, GxPert, SmartDocs  
-- Modern UI + role based access  
-</details>
-
-<details>
-  <summary><b>Power BI Validation & Compliance Analytics</b></summary>
-
-- Automated compliance dashboards  
-- Power Automate + SharePoint integration  
-</details>
-
-> *Private enterprise projects demo available on request.*
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PILLIAKHIL0502&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PILLIAKHIL0502&layout=compact&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PILLIAKHIL0502&theme=tokyonight" />
-</p>
----
-
-### 👀 Visitor Count
-![Visitors](https://komarev.com/ghpvc/?username=PILLIAKHIL0502&style=flat-square)
+</div>
