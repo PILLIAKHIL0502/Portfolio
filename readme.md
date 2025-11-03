@@ -100,43 +100,64 @@ Create /assets/banner.png and optional project thumbnails for a perfect look
 </table>
 
 <!-- ======= PROJECTS - DASH CARDS ======= -->
+<!-- ======= PROJECTS - DASH CARDS WITH INTERNET ICONS ======= -->
 <h2 align="center" style="margin:8px 0 0 0; color:#111827;">Projects</h2>
-<p align="center" style="margin:4px 0 18px 0; color:#6B7280;">Public and private highlights</p>
+<p align="center" style="margin:4px 0 18px 0; color:#6B7280;">Platforms & systems I architected</p>
 
 <table align="center" width="100%" style="max-width:1180px; border-collapse:separate; border-spacing:16px;">
+
+  <!-- PHENIX -->
   <tr>
-    <td style="background:#FFFFFF; border:1px solid #E5E7EB; border-radius:16px; padding:16px; width:50%; vertical-align:top;">
-      <img src="./assets/phenix_thumb.png" alt="PHENIX" style="width:100%; border-radius:10px; border:1px solid #E5E7EB;" />
-      <h3 style="margin:12px 0 6px 0; color:#111827;">PHENIX - No code test automation</h3>
-      <p style="margin:0; color:#374151;">
-        Tosca inspired builder, async Playwright engine, PDF reports with screenshots, versioning, GitHub integration, local exe packaging.
+    <td style="background:#FFFFFF; border:1px solid #E5E7EB; border-radius:18px; padding:20px; width:50%;">
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="54" alt="PHENIX logo" />
+      </p>
+      <h3 align="center" style="margin:10px 0; color:#111827;">PHENIX — No-Code Test Automation</h3>
+      <p align="center" style="margin:0; color:#374151;">
+        Tosca-like UI scanner, Drag & Drop builder, Async Playwright engine, PDF reports with screenshots, Versioning + local EXE packaging.
       </p>
     </td>
-    <td style="background:#FFFFFF; border:1px solid #E5E7EB; border-radius:16px; padding:16px; width:50%; vertical-align:top;">
-      <img src="./assets/visdom_thumb.png" alt="VISDOM" style="width:100%; border-radius:10px; border:1px solid #E5E7EB;" />
-      <h3 style="margin:12px 0 6px 0; color:#111827;">VISDOM - Document memory and validation AI</h3>
-      <p style="margin:0; color:#374151;">
-        FAISS powered retrieval, SOP grounded responses, SmartDocs controlled document generation. Local boundary for compliance.
+
+    <!-- VISDOM -->
+    <td style="background:#FFFFFF; border:1px solid #E5E7EB; border-radius:18px; padding:20px; width:50%;">
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="54" alt="VISDOM logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" />
+      </p>
+      <h3 align="center" style="margin:10px 0; color:#111827;">VISDOM — Validation Document Memory AI</h3>
+      <p align="center" style="margin:0; color:#374151;">
+        FAISS-powered internal RAG, SOP-aware AI, controlled SmartDocs generation, secure enterprise grade knowledge pipeline.
       </p>
     </td>
   </tr>
+
+  <!-- NOVA -->
   <tr>
-    <td style="background:#FFFFFF; border:1px solid #E5E7EB; border-radius:16px; padding:16px; width:50%; vertical-align:top;">
-      <img src="./assets/nova_thumb.png" alt="NOVA" style="width:100%; border-radius:10px; border:1px solid #E5E7EB;" />
-      <h3 style="margin:12px 0 6px 0; color:#111827;">NOVA - Unified validation and AI platform</h3>
-      <p style="margin:0; color:#374151;">
-        Shell that brings GxPert, TestGen, SmartDocs, and PHENIX together with clean roles and dashboards.
+    <td style="background:#FFFFFF; border:1px solid #E5E7EB; border-radius:18px; padding:20px; width:50%;">
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="54" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" />
+      </p>
+      <h3 align="center" style="margin:10px 0; color:#111827;">NOVA — Unified Validation Platform</h3>
+      <p align="center" style="margin:0; color:#374151;">
+        Central QA cockpit: GxPert, TestGen, SmartDocs, PHENIX. AI-assisted validation lifecycle, real-time dashboards, secure modules.
       </p>
     </td>
-    <td style="background:#FFFFFF; border:1px solid #E5E7EB; border-radius:16px; padding:16px; width:50%; vertical-align:top;">
-      <img src="./assets/powerbi_thumb.png" alt="Power BI Dashboards" style="width:100%; border-radius:10px; border:1px solid #E5E7EB;" />
-      <h3 style="margin:12px 0 6px 0; color:#111827;">Power BI validation and compliance analytics</h3>
-      <p style="margin:0; color:#374151;">
-        Automated compliance dashboards with Power Automate and SharePoint. Drill-downs for KPIs and periodic reviews.
+
+    <!-- Power BI Project -->
+    <td style="background:#FFFFFF; border:1px solid #E5E7EB; border-radius:18px; padding:20px; width:50%;">
+      <p align="center">
+        <img src="https://img.icons8.com/color/96/power-bi.png" height="54" alt="Power BI icon"/>
+      </p>
+      <h3 align="center" style="margin:10px 0; color:#111827;">Power BI — Compliance & System Dashboards</h3>
+      <p align="center" style="margin:0; color:#374151;">
+        Automated demand & compliance dashboards, SharePoint + Power Automate integration, enterprise interface governance tracking.
       </p>
     </td>
   </tr>
+
 </table>
+
 
 <!-- Optional auto generated project list -->
 <div align="center" style="margin:18px 0 0 0; color:#6B7280; font-size:14px;">
