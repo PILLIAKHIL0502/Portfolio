@@ -1,7 +1,7 @@
 <!-- Profile README for: Akhil Pilli -->
 
 <p align="center">
-  <img src="./akhil_banner.png" alt="Akhil Pilli | IT Quality Architect" width="100%" />
+  <img src="./akhil_banner.png" alt="Akhil Pilli | IT Quality Architect" width="20%" />
 </p>
 
 <p align="center">
